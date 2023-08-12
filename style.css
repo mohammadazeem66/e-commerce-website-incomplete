@@ -1,0 +1,258 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#navbar{
+
+    width: 1380px;
+    height: 80px;
+    background-color: rgb(34, 33, 33);
+
+}
+.logo{
+
+    height:85px;
+    width: 85px;
+
+}
+.loginsignup{
+
+    display: flex;
+    flex-direction: row;
+    
+
+}
+#signupbtn{
+
+    font-size: 18px;
+    font-weight: 700;
+    color: azure;
+
+}
+
+#carouselExampleSlidesOnly{
+
+    border: 2px solid black;
+    width: 100%;
+    height: 384.5px;
+    background-color: rgb(60, 60, 63);
+
+
+}
+.carousel-inner{
+   
+    border: 2px solid black;
+    width: 255.2px;
+    height: 385.6px;
+    margin-left: 80%;
+    margin-top: -1px;
+    border-style: none;
+
+}
+
+
+.leftdiv{
+
+    border: 2px solid black;
+    width: 845px;
+    height: 360px;
+    margin-top: -35%;
+    border-style: none;
+    padding: 1%;
+    
+    
+
+}
+.leftcontent{
+
+    border: 2px solid brown;
+    width: 450px;
+    height: 260px;
+    padding: 5%;
+    margin-left: 16%;
+    margin-top: 25px;
+    border-style: none;
+
+
+}
+.headtext {
+
+    color: azure;
+    font-size: 42px;
+    font-weight: 700;
+
+}
+.text{
+
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+
+}
+
+.shopbtn{
+
+    width: 30%;
+    padding: 7px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: blue;
+    color: azure;
+
+}
+
+.cards{
+
+    border: 2px solid black;
+    width: 100%;
+    height: 1350px;
+    margin-top: 10px;
+    border-style: none;
+    /* padding: 3px; */
+    
+    
+    
+
+}
+
+.row1{
+
+    border: 2px solid black;
+    width: 95%;
+    height: 330px;
+    margin-top: 22px;
+    margin-left: 03%;
+    border-style: none;
+    
+    
+
+}
+.row2{
+
+    border: 2px solid black;
+    width: 95%;
+    height: 460px;
+    margin-top: 20px;
+    margin-left: 02%;
+    border-style: none;
+
+}
+.row3{
+
+    border: 2px solid black;
+    width: 95%;
+    height: 460px;
+    margin-top: 20px;
+    margin-left: 02%;
+    border-style: none;
+
+}
+
+.cardrow1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 08%;
+    /* padding: 2%; */
+    
+
+}
+
+.card1{
+
+border: 2px solid black;
+
+border-radius: 5px;
+padding: 4px;
+border-style: none;
+/* height: 150px;
+width: 150px; */
+
+}
+.card-title1{
+
+
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+.card2{
+
+    border: 2px solid black;
+    margin-left: 2%;
+    border-radius: 5px;
+    padding: 4px;
+    border-style: none;
+    /* height: 150px;
+    width: 150px; */
+    
+
+
+    }
+
+    .card-title2{
+
+        text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+
+    }
+
+    .card3{
+
+        border: 2px solid black;
+        margin-left: 02%;
+        border-radius: 5px;
+        padding: 4px;
+        border-style: none;
+        /* height: 150px;
+        width: 150px; */
+        
+        }
+
+        .card-title3{
+
+            text-align: center;
+        font-size: 24px;
+        font-weight: 600;
+    
+        }
+          
+    .card4{
+
+        border: 2px solid black;
+        margin-left: 02%;
+        border-radius: 5px;
+        padding: 4px;
+        border-style: none;
+        /* height: 150px;
+        width: 150px; */
+        
+        }
+
+        .card-title4{
+
+            text-align: center;
+        font-size: 24px;
+        font-weight: 600;
+    
+        }
+        .cardrow2{
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 2%;
+            gap: 11%;
+
+
+        }
+        /* .row2title{
+
+            margin-right: 5%;
+
+        } */
+          
